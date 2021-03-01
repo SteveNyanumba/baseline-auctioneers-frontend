@@ -1,3 +1,3 @@
 # Baseline Auctioneers Auction Site
-![Baseline Auctioneers](./logo.svg =100x)
+<img src="./logo.svg" width="40px"/>
 
