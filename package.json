@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/SteveNyanumba/baseline-auctioneers-frontend/issues"
   },
-  "homepage": "https://github.com/SteveNyanumba/baseline-auctioneers-frontend#readme"
+  "homepage": "https://github.com/SteveNyanumba/baseline-auctioneers-frontend#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.6",
+    "tailwindcss": "^2.0.3"
+  },
+  "dependencies": {
+    "laravel-mix": "^6.0.13"
+  }
 }
