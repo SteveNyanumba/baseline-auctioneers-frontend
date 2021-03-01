@@ -1,0 +1,23 @@
+{
+  "name": "baseline-frontend",
+  "version": "1.0.0",
+  "description": "The Baselibe Auctioneers Website Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveNyanumba/baseline-auctioneers-frontend.git"
+  },
+  "keywords": [
+    "Baseline",
+    "Auctioneers"
+  ],
+  "author": "Steve Nyanumba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveNyanumba/baseline-auctioneers-frontend/issues"
+  },
+  "homepage": "https://github.com/SteveNyanumba/baseline-auctioneers-frontend#readme"
+}
