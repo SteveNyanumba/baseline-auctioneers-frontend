@@ -4,7 +4,7 @@
   "description": "The Baselibe Auctioneers Website Frontend",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "hot": "mix watch --hot"
   },
   "repository": {
     "type": "git",
@@ -21,11 +21,14 @@
   },
   "homepage": "https://github.com/SteveNyanumba/baseline-auctioneers-frontend#readme",
   "devDependencies": {
-    "autoprefixer": "^10.2.4",
-    "postcss": "^8.2.6",
-    "tailwindcss": "^2.0.3"
+    "postcss-import": "^14.0.0",
+    "tailwindcss": "^2.0.3",
+    "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "laravel-mix": "^6.0.13"
+    "autoprefixer": "^10.2.4",
+    "css-loader": "^5.1.1",
+    "laravel-mix": "^6.0.13",
+    "postcss": "^8.2.6"
   }
 }
